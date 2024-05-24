@@ -1,8 +1,6 @@
 # Cab-Booking-System
 CAB BOOKING SYSTEM project is to develop an online process of Cab  Booking Service. Present system is manual Cab Booking Management System is developed to manage all cab hiring work online. It is effortless for the customer to book a car online through which customers can view available cabs, register the cabs, view profiles, and  book cabs. 
 
-# Cab-Booking-System
-
 # Overview
 
 The Cab Booking Management System is an online platform designed to automate the process of cab booking, enhancing efficiency and standardizing operations for both customers and service providers. The system addresses the limitations of the current manual booking process by offering a seamless and convenient way for users to book cabs, view availability, and manage bookings.
